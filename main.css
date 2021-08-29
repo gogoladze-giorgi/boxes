@@ -21,6 +21,9 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
 }
 
 .item-1 {
